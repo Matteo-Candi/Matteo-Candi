@@ -6,12 +6,13 @@
   <img height="200" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/53388364-91c0-4fb1-94c1-460a130d25fe", align="right"  />
 </div>
 
+<br>
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist<br><br>- 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>- 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br>- 📊 Bachelor's degree in Statistics</p>
 
 ###
-
+<br><br>
 <h3 align="right">🛠 Languages and tools</h3>
 
 ###
@@ -43,18 +44,20 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">🔥   My Stats :</h3>
-<h1></h1>
-###
-
-<p align="left">Hello World!!</p>
 
 ###
 
 <p align="left">Hello World!!</p>
 
 ###
+
+<p align="left">Hello World!!</p>
+
+###
+<br>
+<h3 align="center">📬   Contact</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matteo-candi-59411b215/" target="_blank">
