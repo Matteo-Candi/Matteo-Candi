@@ -20,7 +20,7 @@
 <h3 align="center">🛠 <ins>Languages and tools</ins></h3>
 
 <div>
-  <br><br>
+  <br>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
     <img width="15" />
@@ -51,7 +51,7 @@
 
 <br><br>
 <h3 align="center">📈   <ins>My Stats</ins> </h3>
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matteo-Candi&theme=dark&show_icons=true" height="200" alt="streak graph"  />
