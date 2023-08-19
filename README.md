@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matteo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi✌️, I'm Matteo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 
 💻 Currently MSc in Data Science at Sapienza, Rome
