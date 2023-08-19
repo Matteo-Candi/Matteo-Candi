@@ -3,13 +3,10 @@
 
 - 👓 I’m currently studying for a Master Degree in Data Science in *Sapienza*, Rome
 
-- U+1F1F5 U+1F1F9 I’m currently attending an Erasmus period at *Univesity of Porto*, Portugal
+- 🛫 I’m currently attending an Erasmus period at *Univesity of Porto*, Portugal
 
-- 🧑‍💻 I’m looking to collaborate on **front-end and back-end projects**
+- 🧑‍💻 Passionate for Coding and Modelling
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
