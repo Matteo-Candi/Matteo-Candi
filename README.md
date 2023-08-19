@@ -5,7 +5,7 @@
 
 ###
 
-<br>
+
 <h3 align="left" >👩‍💻  <ins>About Me </ins></h3>
 
 <div>
@@ -16,7 +16,7 @@
 ###
 
 
-<br><br><br>
+<br><br>
 <h3 align="right">🛠 <ins>Languages and tools</ins></h3>
 
 <div>
@@ -50,7 +50,7 @@
 
 ###
 
-<br><br><br>
+<br><br>
 <h3 align="left">📈   <ins>My Stats</ins> </h3>
 <br><br>
 
