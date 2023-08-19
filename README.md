@@ -9,7 +9,7 @@
 <br>
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist<br><br>- 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>- 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br>- 📊 Bachelor's degree in Statistics</p>
+<p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist!<br><br> ▹ 💻 Currently MSc in Data Science at Sapienza, Rome<br><br> ▹ 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br> ▹ 📊 Bachelor's degree in Statistics</p>
 
 ###
 <br><br>
@@ -49,11 +49,13 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Matteo-Candi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
-<p align="left">Hello World!!</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matteo-Candi&theme=dark&show_icons=true)
 
 ###
 <br>
