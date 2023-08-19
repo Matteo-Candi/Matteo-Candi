@@ -50,7 +50,7 @@
 ###
 
 <br><br>
-<h3 align="left">📈   <ins>My Stats</ins> </h3>
+<h3 align="center">📈   <ins>My Stats</ins> </h3>
 <br><br>
 
 <div align="center">
