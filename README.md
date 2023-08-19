@@ -1,20 +1,17 @@
-![coding](https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/5294dccd-cce3-45c4-9a75-7631ec5f07cb)<h1 align="center">Hi✌️, I'm Matteo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-
 <div align="center">
-  <img height="150" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/53388364-91c0-4fb1-94c1-460a130d25fe"  />
+  <img height="160" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/53388364-91c0-4fb1-94c1-460a130d25fe"  />
 </div>
+
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
 
-<h1 align="center">Hey there ✌️</h1>
+<h1 align="center">Hey there</h1>
 
 ###
 
@@ -22,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Matteo from Rome, Italy and I'm studying to became a Data Scientist<br><br>- 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>- 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br>- 📊 Bachelor's degree in Statistics</p>
+<p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist<br><br>- 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>- 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br>- 📊 Bachelor's degree in Statistics</p>
 
 ###
 
