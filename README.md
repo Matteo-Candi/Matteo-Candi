@@ -3,7 +3,7 @@
 
 - 👓 I’m currently studying for a Master Degree in Data Science in *Sapienza*, Rome
 
-- 🇵🇹 I’m currently attending an Erasmus period at *Univesity of Porto*, Portugal
+- U+1F1F5 U+1F1F9 I’m currently attending an Erasmus period at *Univesity of Porto*, Portugal
 
 - 🧑‍💻 I’m looking to collaborate on **front-end and back-end projects**
 
