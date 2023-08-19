@@ -17,12 +17,11 @@
 
 
 <br><br>
-<h3 align="right">🛠 <ins>Languages and tools</ins></h3>
+<h3 align="center">🛠 <ins>Languages and tools</ins></h3>
 
 <div>
-  <img height="200" width="320"  src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/f1a330d0-4af6-4ed0-b8f7-cb321025cbf3" align="left" hspace="50" />
   <br><br>
-  <div align="right">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
@@ -31,7 +30,7 @@
   </div>
   <br>
   
-  <div align="right">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
