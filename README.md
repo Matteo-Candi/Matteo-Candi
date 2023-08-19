@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">Hey there</h1>
+<h1 align="center">Hey there  ✌️</h1>
 
 ###
 
@@ -22,6 +22,7 @@
 <p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist<br><br>- 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>- 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br>- 📊 Bachelor's degree in Statistics</p>
 
 ###
+<h1></h1>
 
 <h3 align="left">🛠 Languages and tools</h3>
 
@@ -56,7 +57,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
+<h1></h1>
 ###
 
 <p align="left">Hello World!!</p>
