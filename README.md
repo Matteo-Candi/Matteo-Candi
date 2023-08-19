@@ -1,36 +1,22 @@
-<div align="center">
-  <img height="160" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/53388364-91c0-4fb1-94c1-460a130d25fe"  />
+<h1>    Hey there  ✌️</h1>
+
+###
+
+<div>
+  <img height="200" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/53388364-91c0-4fb1-94c1-460a130d25fe", align="right"  />
 </div>
-
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matteo-candi-59411b215/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hey there  ✌️</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist<br><br>- 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>- 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br>- 📊 Bachelor's degree in Statistics</p>
 
 ###
-<h1></h1>
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="right">🛠 Languages and tools</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
@@ -40,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
@@ -69,3 +55,9 @@
 <p align="left">Hello World!!</p>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matteo-candi-59411b215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
