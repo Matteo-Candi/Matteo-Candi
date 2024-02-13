@@ -10,7 +10,10 @@
 
 <div>
   <img height="200" width="300" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/c2577c2d-c1ce-4479-80c8-897660c969f3" align="right" hspace="50" />
-  <p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist!<br><br> ▹ 💻 Currently MSc in Data Science at Sapienza, Rome<br><br> ▹ 🛫 Currently an Erasmus student at the University of Porto, Portugal<br><br> ▹ 📊 Bachelor's degree in Statistics</p>
+  <p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist!<br><br> 
+    ▹ 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>
+    ▹ 🛫 Erasmus experience at the University of Porto, Portugal<br><br>
+    ▹ 📊 Bachelor's degree in Statistics</p>
 </div>
 
 ###
