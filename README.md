@@ -29,20 +29,22 @@
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo"  />
     <img width="15" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" alt="sql logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   </div>
   <br>
   
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
-    <img width="17" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="50" alt="rstudio logo"  />
-    <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" alt="pandas logo"  />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="50" alt="numpy logo"  />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height="50" alt="pytorch logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="50" alt="tensorflow logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo"  />
     <img width="15" />
@@ -50,14 +52,6 @@
   </div>
 </div>
 
-###
 
-<br><br>
-<h3 align="center">📈   <ins>My Stats</ins> </h3>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matteo-Candi&theme=dark&show_icons=true" height="200" alt="streak graph"  />
-</div>
 
 
