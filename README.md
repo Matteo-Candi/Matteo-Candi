@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/matteo-candi-59411b215/" target="_blank">
+<a href="https://www.linkedin.com/in/matteo-candi/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" align="right"  />
 </a>
 <h1> Hey there <img src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/19fb8f5c-6430-4c37-b769-d6c3c6ace752" height="50" /> </h1>
