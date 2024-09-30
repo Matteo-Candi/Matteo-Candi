@@ -14,7 +14,7 @@
     ▹ 💼 Data Science Internship at KPMG<br><br>
     ▹ 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>
     ▹ 🛫 Erasmus experience at the University of Porto, Portugal<br><br>
-    ▹ 📊 Bachelor's degree in Statistics, Rome</p>
+    ▹ 📊 Bachelor's degree in Statistics at Sapienza, Rome</p>
 </div>
 
 ###
