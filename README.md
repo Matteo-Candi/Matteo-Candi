@@ -11,9 +11,10 @@
 <div>
   <img height="200" width="300" src="https://github.com/Matteo-Candi/Matteo-Candi/assets/114286004/c2577c2d-c1ce-4479-80c8-897660c969f3" align="right" hspace="50" />
   <p align="left">I'm Matteo from Rome, Italy and I'm studying to become a Data Scientist!<br><br> 
+    ▹ 💼 Data Science Internship at KPMG<br><br>
     ▹ 💻 Currently MSc in Data Science at Sapienza, Rome<br><br>
     ▹ 🛫 Erasmus experience at the University of Porto, Portugal<br><br>
-    ▹ 📊 Bachelor's degree in Statistics</p>
+    ▹ 📊 Bachelor's degree in Statistics, Rome</p>
 </div>
 
 ###
@@ -49,6 +50,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo"  />
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" height="50" alt="neo4j logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" alt="HTML logo"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" alt="css logo"  />
+    <img width="15" />|
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   </div>
 </div>
 
